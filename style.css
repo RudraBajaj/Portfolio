@@ -67,7 +67,7 @@ nav ul li a:hover{
 
 .leftsection {
     margin: 120px 0 0 200px;
-    font-size: 6rem;
+    font-size: 5rem;
 }
 
 .Rudra {
@@ -79,4 +79,8 @@ nav ul li a:hover{
     height: auto;
     display: flex;
     margin: 88px;
+}
+
+#element{
+    color: purple  ;
 }
