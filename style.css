@@ -26,7 +26,7 @@ nav {
     background-color: rgb(0, 0, 63);
 }
 
-.right{
+.right {
     font-size: 2rem;
 }
 
@@ -40,6 +40,16 @@ nav ul li {
     margin: 23px;
 }
 
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: lavender;
+    font-size: 2.2rem;
+}
+
+
 .left {
     font-size: 2rem;
 }
@@ -48,7 +58,7 @@ nav ul li {
     display: flex;
     justify-content: flex-start;
     margin: 60px 0;
-    padding: 20px;  
+    padding: 20px;
 }
 
 .firstsection>div {
@@ -66,7 +76,7 @@ nav ul li {
 
 .rightsection img {
     max-width: 100%;
-    height: auto; 
-    display: flex; 
+    height: auto;
+    display: flex;
     margin: 88px;
 }
