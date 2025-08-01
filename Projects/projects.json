@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ai Farming Analysis",
+    "desc": "A backend AI-powered farming analysis system with database integrety that evaluates temperature, moisture, and water needs to recommend optimal crops for cultivation.",
+    "image": "Farming",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Ai-Farming-Analysis"
+    }
+  },
+  {
+    "name": "Online Quiz System",
+    "desc": "An intuitive Online Quiz System built in Java (using AWT/Swing) that delivers a multiple-choice quiz with instant scoring and a detailed performance report.",
+    "image": "Onlinequizsystem",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Online_Quiz_System"
+    }
+  },
+  {
+    "name": "Book Finding Website",
+    "desc": "A simple Java-based Book Management System using Swing that allows users to add, view, and delete books with a clean graphical interface.",
+    "image": "RudraBooks",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Rudra_Books"
+    }
+  },
+  {
+    "name": "Path Finder Algorithms",
+    "desc": "A visual pathfinding simulator using JavaScript and HTML5 Canvas to demonstrate algorithms like A, Dijkstra, and BFS in real-time.",
+    "image": "PathFinder",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Path-finder"
+    }
+  },
+  {
+    "name": "Discord Music Bot",
+    "desc": "Discord Bot using Python , ffmpeg music enhancements and easy to control which plays high quality music from youtube and spotify which you can lsiten and enjoy.",
+    "image": "DiscordMusic",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Discord-Music-Bot"
+    }
+  },
+  {
+    "name": "Stone Paper Scissor Game",
+    "desc": "A web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript, featuring interactive UI and score tracking.",
+    "image": "SPS",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/RudraBajaj/Rock-Paper-Scissor-game"
+    }
+  }
+]
