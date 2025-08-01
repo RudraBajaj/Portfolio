@@ -77,7 +77,7 @@ async function fetchData(type = "skills") {
     let response;
 
     if (type === "skills") {
-        response = await fetch("../../Skills/skills.json");
+        response = await fetch("Skills/skills.json");
     } else {
         response = await fetch("./projects/projects.json");
     }
